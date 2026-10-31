@@ -1,4 +1,4 @@
-// 4. GLOBAL SCOPE
+//GLOBAL SCOPE
 
 let name = "Khushi";
 
